@@ -5,7 +5,7 @@ from log import Logger
 
 #Relationships between classes:
 #Inheritence: like InternationalStudent inherited from Student
-#Interface
+#Interface: Done by inheriting from LoggingStudentActivity interface.
 #Composition
 #Dependency
 

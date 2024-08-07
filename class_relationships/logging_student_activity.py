@@ -1,5 +1,7 @@
 from abc import ABC, abstractmethod
 
+# This interface done by inheriting from ABC.
+
 class LoggingStudentActivity(ABC):
 
     @abstractmethod
